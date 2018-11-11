@@ -4,10 +4,12 @@ const morgan = require('morgan');
 
 const server = express();
 
+const indexRouter = require('../routes/index');
+
 server.use(morgan('dev'));
 
 server.set('port', process.env.PORT || 3000);
 
-server.get('/', (req, res) => res.send('Hello world !'));
+server.get('/', indexRouter);
 
 http.createServer(server).listen(server.get('port'), () => console.log(`Server running on http://localhost:${server.get('port')}`));
