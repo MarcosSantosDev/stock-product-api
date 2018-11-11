@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const Schema = new mongoose.Schema({
 	produto: String,
 	description: String,
-	user_id: String,
+	userId: String,
 	date: { type: Date, default: Date.now },
 });
 
