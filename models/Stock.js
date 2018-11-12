@@ -1,8 +1,9 @@
 const mongoose = require('mongoose');
 
 const Schema = new mongoose.Schema({
-	produto: String,
+	product: String,
 	description: String,
+	price: String,
 	userId: String,
 	date: { type: Date, default: Date.now },
 });
