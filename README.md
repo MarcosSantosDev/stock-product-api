@@ -1,4 +1,4 @@
-## Stock Controll Project
+## Stock Product Project
 
 ### Getting Started
 ##### Is necessary for run project the developments tools: 
@@ -8,7 +8,7 @@
 
 - Clone the project:
 	```
-	git clone https://github.com/MarcosSantosDev/stock-controll-api.git
+	git clone https://github.com/MarcosSantosDev/stock-product-api.git
 	```
 - Steps Install packages
 	- Enter in project
