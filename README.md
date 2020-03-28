@@ -7,24 +7,23 @@
 3. [mongodb](https://docs.mongodb.com/manual/installation/)
 
 - Clone the project:
-```
-		git clone https://github.com/MarcosSantosDev/stock-project-API.git
 	```
-
+	git clone https://github.com/MarcosSantosDev/stock-project-API.git
+	```
 - Steps Install packages
 	- Enter in project
-```
-		cd stock-controll-api
-```
+	```
+	cd stock-controll-api
+	```
 	- Run command
 ```
-		sudo npm install --save
+sudo npm install --save
 ```
 - Starting project
 	- Run command
-```
-		npm start
-```
+	```
+	npm start
+	```
 - The project it is running server in http://localhost:3000/
 
 ## Author
