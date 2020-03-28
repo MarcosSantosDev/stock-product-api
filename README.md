@@ -13,7 +13,7 @@
 - Steps Install packages
 	- Enter in project
 	```
-	cd stock-controll-api
+	cd stock-product-api
 	```
 	- Run command
 ```
