@@ -8,7 +8,7 @@
 
 - Clone the project:
 	```
-	git clone https://github.com/MarcosSantosDev/stock-project-API.git
+	git clone https://github.com/MarcosSantosDev/stock-controll-api.git
 	```
 - Steps Install packages
 	- Enter in project
